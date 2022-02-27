@@ -1,0 +1,7 @@
+1) Bug priority
+2) Bug name
+3) Project name
+4) Bug description
+5) Actual result
+6) Expected result
+
